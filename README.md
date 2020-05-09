@@ -13,3 +13,9 @@
 - 完整的日志(js.html)
 
 这个工具的大致原理是使用ActiveX运行cmd命令来操作u盘，因其中使用的一个小工具使用了加壳加密，所以可能会被杀软误报。建议在下载和使用过程中暂时关闭杀毒软件（特别是Windows defender！）如不信任，可使用虚拟机运行这个工具（未测试功能是否正常）。
+
+
+效果图：  
+![img]( https://github.com/Billraozihan/Edgeless-gui-maker/blob/master/1.png?raw=true )  
+![img]( https://github.com/Billraozihan/Edgeless-gui-maker/blob/master/2.png?raw=true )  
+![img]( https://github.com/Billraozihan/Edgeless-gui-maker/blob/master/3.png?raw=true )  
