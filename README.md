@@ -4,6 +4,7 @@
 
 > 重点：压缩包里的startme.bat/运行我.bat的开源协议不是Unlicense！此文件暂时不按照任何协议开源（虽然源码没做加密qwq）  
 
+
 目前功能：
 - 使用HTML制作的图形化界面，打包为hta应用。模板来自Hexo的默认主题landscape
 - 完美支持传统和uefi双启动方式
