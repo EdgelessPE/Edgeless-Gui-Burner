@@ -1,4 +1,4 @@
-# Edgeless-gui
+# Edgeless-gui-maker
 
 本家： [Edgeless PE](https://home.edgeless.top/)
 
