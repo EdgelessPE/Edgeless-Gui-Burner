@@ -2,7 +2,7 @@
 
 本家： [Edgeless PE](https://home.edgeless.top/)
 
-> 重点：压缩包里的startme.bat/运行我.bat的开源协议不是Unlicense！此文件暂时不按照任何协议开源（虽然源码没做加密qwq）  
+> 重点：压缩包里的startme.bat/运行我.bat的开源协议不是Unlicense！此文件暂时不按照任何协议开源（虽然源码没做加密qwq）。压缩包内的一切exe程序均按照原作者发布时的协议开源/闭源！  
 
 
 目前功能：
