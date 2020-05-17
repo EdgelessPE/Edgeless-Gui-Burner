@@ -8,6 +8,8 @@
 
 下载中exe后缀的是加壳打包好的单文件程序，bak后缀的是可解压查看源码的版本。
 
+# 注意：非win10系统运行时报错请先尝试 [ 安装ie11 ]( https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer ) 。
+
 目前功能：
 - 使用HTML制作的图形化界面，打包为hta应用。模板来自Hexo的默认主题landscape
 - 完美支持传统和uefi双启动方式
