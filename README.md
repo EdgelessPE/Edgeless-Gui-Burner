@@ -8,7 +8,7 @@
 
 下载中 exe 后缀的是加壳打包好的单文件程序，bak 后缀的是可解压查看源码的版本。
 
-# 注意：非 win10 系统运行时报错请先尝试 [ 安装ie11 ]( https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer ) 。
+## 注意：非 win10 系统运行时报错请先尝试 [ 安装ie11 ]( https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer ) 。
 
 目前功能：
 - 使用 HTML 制作的图形化界面，打包为 hta 应用。模板来自 Hexo 的默认主题 landscape
