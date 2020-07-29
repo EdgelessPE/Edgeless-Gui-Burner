@@ -4,7 +4,7 @@
 
 本家： [Edgeless PE](https://home.edgeless.top/)
 
-> 重点：压缩包里的 startme.bat/运行我.bat 的开源协议不是 Unlicense！此文件按照 AGPL V3 协议开源。压缩包内的一切 exe 程序均按照原作者发布时的协议开源/闭源！  
+> 重点：压缩包里的 startme.bat/运行我.bat 的开源协议不是 GPL V3！此文件按照 AGPL V3 协议开源。压缩包内的一切 exe 程序均按照原作者发布时的协议开源/闭源！  
 
 下载中 exe 后缀的是加壳打包好的单文件程序，bak 后缀的是可解压查看源码的版本。
 
